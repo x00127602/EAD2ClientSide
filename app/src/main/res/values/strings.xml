@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Game Client API</string>
+    <string name="call_button_text">Call Service</string>
+</resources>
